@@ -32,6 +32,6 @@ The final grade is determined by an assessment of five projects. The following t
 
 This course will have a strong computational component. Computations are not the end goal, but they will be an important tool to understand the topics we will cover. Research in astrophysics is becoming more and more computational; the course will equip students with the strategies and skills to deal with modern astrophysical problems. 
 
-Students are expected to have their own laptops, and bring them to classes (including lectures!). We will make use of [JuputerHub](https://jupyterhub.uio.no/user/home/lab), so all you need to run the examples, exercises, and projects is a computer with internet access! 
+Students are expected to have their own laptops, and bring them to classes (including lectures!). We will make use of [JupyterHub](https://jupyterhub.uio.no/user/home/lab), so all you need to run the examples, exercises, and projects is a computer with internet access! 
 
 The projects are in the Python programming language in Jupyter notebook format. More details about the software and computing environment can be found in [software and tools](tools/).
